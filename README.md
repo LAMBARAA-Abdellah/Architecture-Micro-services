@@ -9,16 +9,6 @@ Créer une application complète basée sur une architecture **micro‑services*
 L’architecture respecte les standards professionnels : **Spring Cloud Gateway**, **Eureka Discovery**, **OpenFeign**, **Spring Cloud Config**, et un **client Angular**.
 
 ---
-
-## 📚 Ressources  
-- Partie 1 : https://www.youtube.com/watch?v=kOVHzN8I8e8  
-- Partie 2 : https://www.youtube.com/watch?v=-iM3J_mgqlM  
-- Service de configuration (Spring Cloud Config) :  
-  - Vidéo : https://www.youtube.com/watch?v=-G2rcLMO1gQ  
-  - Repo : https://github.com/mohamedYoussfi/micro-services-app  
-
----
-
 # 🏗️ **Structure du Projet**
 
 ```
@@ -156,3 +146,4 @@ spring:
 # ✨ Auteur  
 **LAMBARAA Abdellah – BDCC / ENSET Mohammedia**  
 ---
+
